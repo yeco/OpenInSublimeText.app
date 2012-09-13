@@ -12,4 +12,4 @@ There are two ways to do it and both are quite simple and stupid:
 
 1. Just <a href="https://github.com/downloads/yeco/OpenInSublimeText.app/OpenInSublimeText.zip">download it</a> unzip it to your apps folder and drag and drop it in your finder's toolbar.
 
-2. Clone it as *OpenInSublimeText.app* in your apps folder and drag and drop it in your finder's toolbar.
+2. Clone this repo as *OpenInSublimeText.app* in your apps folder and drag and drop it in your finder's toolbar.
