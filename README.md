@@ -10,7 +10,7 @@ How to install:
 
 There are two ways to do it and both are quite simple and stupid:
 
-1. Just <a href="https://github.com/yeco/OpenInSublimeText.app/archive/0.0.2.zip">download it</a> unzip it, rename it and move it to your apps folder.
+1. Just <a href="https://github.com/yeco/OpenInSublimeText.app/archive/0.0.2.zip">download it</a>, unzip it, rename it and move it to your apps folder.
 
 2. Clone this repo as *OpenInSublimeText.app* in your apps folder.
 
