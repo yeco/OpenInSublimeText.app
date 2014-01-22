@@ -3,7 +3,7 @@ Open In SublimeText
 
 Open In SublimeText is a tiny tool that allows you to open the current folder or selection from Finder as a Sublime Text project. Just as simple as that.
 
-![OpenInSublime](https://www.evernote.com/shard/s4/sh/982b0fa7-29e3-410b-b471-cc9f72f54d08/bfee9f2f3cf6199c3249982d8cf6dcd1/res/742071e5-59a4-4a0a-be69-2cb1206a6277/screenshot.png?resizeSmall&width=832)
+![OpenInSublime](https://www.evernote.com/shard/s4/sh/ab7d8828-d5a9-4fea-91e1-5b1b306ec7f0/c7f1c9e334efde47da615d45e8af830c/deep/0/OpenInSublimeText.png)
 
 How to install:
 -----------
